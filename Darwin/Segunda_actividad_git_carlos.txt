@@ -2,3 +2,11 @@
 ficha 2184110
 ADSI
 ejemplo de rama y merge*/
+
+Darwin Tusarma Taba
+armenia Quindio
+35 años
+cell 555-5555-555
+cedula 0000-0000-000
+direccion: en algun lugar de un gran pais
+
